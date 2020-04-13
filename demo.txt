@@ -1,1 +1,2 @@
 This is sample demo file for Git session
+Updated file
